@@ -1,5 +1,7 @@
 # BestPM-student-project
 Web application (economic simulator), which will allow the user (player) to feel like a project manager.
+# Project link http://bestpm.pp.ua/
+
 # Objective of the project:
 Write a web application (economic simulator), which will allow the user (player) to feel like a project manager and to visit in conditions close to the realities of the IT market.
 # Functional purpose of the project:
