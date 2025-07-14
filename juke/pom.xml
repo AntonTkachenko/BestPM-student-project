@@ -264,7 +264,7 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>webjars-locator</artifactId>
-			<version>0.32</version>
+			<version>0.37</version>
 		</dependency>
 		<!-- Bootstrap -->
 		<!-- https://mvnrepository.com/artifact/org.webjars/bootstrap -->
@@ -320,7 +320,7 @@
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.3.1</version>
+			<version>1.6.0</version>
 		</dependency>
 
 		<!-- Apache Commons IO -->
